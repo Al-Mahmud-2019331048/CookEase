@@ -1,2 +1,11 @@
-# CookEase
-CookEase is a social media platform combined with a recipe-sharing site, allowing users to discover, share, and interact with cooking content. Users can post their favorite recipes, explore new ideas, and connect with fellow cooking enthusiasts. The platform supports personalized recommendations and an engaging community experience, making it a go-to space for culinary inspiration and social interaction. Built with modern web technologies for an interactive and seamless user experience.
+CookEase - Recipe Sharing Platform
+
+- Frontend built with JavaScript (96.2%), HTML (2.0%), and CSS (1.8%).
+- The backend was implemented using Node.js with Express, MySQL, and Multer for file handling.
+- Features include:
+  - User authentication (register, login).
+  - Recipe management: create, update, bookmark, and view recipes.
+  - Social features: Follow users and like and comment on recipes.
+  - CookSnaps and event participation.
+  - Image uploads and serving static files.
+
