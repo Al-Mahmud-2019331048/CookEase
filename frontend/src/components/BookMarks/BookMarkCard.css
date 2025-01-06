@@ -1,0 +1,17 @@
+.badge {
+ position: absolute;
+ top: 10px;
+ left: 0px;
+ padding: 4px 8px;
+ border-radius: 0px 8px 8px 0px;
+ font-weight: bold;
+}
+
+.badge1 {
+ position: absolute;
+ top: 50px;
+ left: 0px;
+ padding: 4px 8px;
+ border-radius: 0px 8px 8px 0px;
+ font-weight: bold;
+}

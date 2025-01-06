@@ -1,0 +1,56 @@
+.recipe-card {
+ position: relative;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ overflow: hidden;
+ margin: 16px;
+}
+
+.badge {
+ position: absolute;
+ top: 10px;
+ left: 0px;
+ padding: 4px 8px;
+ border-radius: 0px 8px 8px 0px;
+ font-weight: bold;
+}
+
+.badge1 {
+ position: absolute;
+ top: 50px;
+ left: 0px;
+ padding: 4px 8px;
+ border-radius: 0px 8px 8px 0px;
+ font-weight: bold;
+}
+
+.badge2 {
+ position: absolute;
+ bottom: 65px;
+ right: 20px;
+ padding: 4px 4px;
+ border-radius: 50%;
+ font-weight: bold;
+}
+
+.recipe-image {
+ width: 100%; /* Allow the width to adjust based on aspect ratio */
+ height: 200px; /* Set the fixed height */
+ object-fit: cover; /* Preserve aspect ratio and cover the container */
+}
+
+.card-details {
+ padding: 12px;
+}
+
+.title {
+ font-size: 18px;
+ margin: 8px 0;
+}
+
+.chef-name,
+.publish-time {
+ font-size: 14px;
+ color: #666;
+ margin: 4px 0;
+}

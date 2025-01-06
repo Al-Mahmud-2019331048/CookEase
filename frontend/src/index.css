@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script&display=swap");
+
+.font-dancing-script {
+ font-family: "Dancing Script", cursive;
+}
+
+.font-abril-fatface {
+ font-family: "Abril Fatface", cursive;
+}

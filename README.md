@@ -1,0 +1,2 @@
+# CookEase
+CookEase is a social media platform combined with a recipe-sharing site, allowing users to discover, share, and interact with cooking content. Users can post their favorite recipes, explore new ideas, and connect with fellow cooking enthusiasts. The platform supports personalized recommendations and an engaging community experience, making it a go-to space for culinary inspiration and social interaction. Built with modern web technologies for an interactive and seamless user experience.
