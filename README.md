@@ -1,6 +1,6 @@
 CookEase - Recipe Sharing Platform
 
-- Frontend built with JavaScript (96.2%), HTML (2.0%), and CSS (1.8%).
+- Frontend built with JavaScript, HTML, and CSS.
 - The backend was implemented using Node.js with Express, MySQL, and Multer for file handling.
 - Features include:
   - User authentication (register, login).
